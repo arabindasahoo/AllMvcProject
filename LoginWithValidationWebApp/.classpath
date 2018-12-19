@@ -28,5 +28,6 @@
 	<classpathentry kind="lib" path="D:/JARS/Spring jars/spring-websocket-4.2.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/JARS/Spring jars/AOP/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="D:/JARS/Spring jars/AOP/spring-aop-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JARS/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
